@@ -1,2 +1,2 @@
-# Database
+# Apartment Management System
 Database Project
